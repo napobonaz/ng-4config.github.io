@@ -12,7 +12,7 @@ var loaded = false;
 
 const colors = [
 {
-  texture: 'ng-4config.github.io/img/cage_black.jpg',
+  texture: 'cage_black.jpg',
   size: [4, 4, 4],
   shininess: 0 },
 
