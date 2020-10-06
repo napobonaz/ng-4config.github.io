@@ -161,7 +161,7 @@ var cameraFar = 5;
 document.body.appendChild(renderer.domElement);
 
 // Add a camera
-var camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 100);
+var camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 1000);
 //camera.position.z = cameraFar;
 //camera.position.x = 0;
 //camera.position.y = -50;
