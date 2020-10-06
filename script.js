@@ -17,123 +17,123 @@ const colors = [
   shininess: 0 },
 
 {
-  texture: '/img/cage_blue.jpg',
+  texture: 'cage_blue.jpg',
   size: [4, 4, 4],
   shininess: 0 },
   
 {
-  texture: '/img/cage_green.jpg',
+  texture: 'cage_green.jpg',
   size: [4, 4, 4],
   shininess: 0 },
   
 {
-  texture: '/img/cage_white.jpg',
+  texture: 'cage_white.jpg',
   size: [4, 4, 4],
   shininess: 0 },
   
 {
-  texture: '/img/cage_orange.jpg',
+  texture: 'cage_orange.jpg',
   size: [4, 4, 4],
   shininess: 0 },
   
 {
-  texture: '/img/cage_rot.jpg',
+  texture: 'cage_rot.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/cage_silver.jpg',
+  texture: 'cage_silver.jpg',
   size: [4, 4, 4],
   shininess: 0 },    
   
 {
-  texture: '/img/cage_yellow.jpg',
+  texture: 'cage_yellow.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
   
 //BODY COLORS
 {
-  texture: '/img/pla_army_green.jpg',
+  texture: 'pla_army_green.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
   
 {
-  texture: '/img/pla_black.jpg',
+  texture: 'pla_black.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
   
 {
-  texture: '/img/pla_blue.jpg',
+  texture: 'pla_blue.jpg',
   size: [4, 4, 4],
   shininess: 0 },   
     
 {
-  texture: '/img/pla_brown.jpg',
+  texture: 'pla_brown.jpg',
   size: [4, 4, 4],
   shininess: 0 },  
   
 {
-  texture: '/img/pla_green.jpg',
+  texture: 'pla_green.jpg',
   size: [4, 4, 4],
   shininess: 0 },   
 
 {
-  texture: '/img/pla_grey.jpg',
+  texture: 'pla_grey.jpg',
   size: [4, 4, 4],
   shininess: 0 },     
 
 {
-  texture: '/img/pla_ice_blue.jpg',
+  texture: 'pla_ice_blue.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_light_blue.jpg',
+  texture: 'pla_light_blue.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_magenta.jpg',
+  texture: 'pla_magenta.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_orange.jpg',
+  texture: 'pla_orange.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_pearl_white.jpg',
+  texture: 'pla_pearl_white.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_red.jpg',
+  texture: 'pla_red.jpg',
   size: [4, 4, 4],
   shininess: 0 },  
 
 {
-  texture: '/img/pla_silver.jpg',
+  texture: 'pla_silver.jpg',
   size: [4, 4, 4],
   shininess: 0 },     
   
 {
-  texture: '/img/pla_sky_blue.jpg',
+  texture: 'pla_sky_blue.jpg',
   size: [4, 4, 4],
   shininess: 0 },     
   
 {
-  texture: '/img/pla_violet.jpg',
+  texture: 'pla_violet.jpg',
   size: [4, 4, 4],
   shininess: 0 }, 
 
 {
-  texture: '/img/pla_white.jpg',
+  texture: 'pla_white.jpg',
   size: [4, 4, 4],
   shininess: 0 },   
 
 {
-  texture: '/img/pla_yellow.jpg',
+  texture: 'pla_yellow.jpg',
   size: [4, 4, 4],
   shininess: 0 },      
 ];
